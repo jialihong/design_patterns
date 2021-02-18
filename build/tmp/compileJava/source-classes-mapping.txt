@@ -1,127 +1,135 @@
+com/amity/design/brige/example/ReadXML.java
+ com.amity.design.brige.example.ReadXML
 com/amity/design/fuyong/Color.java
  com.amity.design.fuyong.Color
-com/amity/design/prototype/ProtoTypeWukong.java
- com.amity.design.prototype.ProtoTypeWukong
-com/amity/design/proxy/example/NjSpecialty.java
- com.amity.design.proxy.example.NjSpecialty
-com/amity/design/singleton/Bajie.java
- com.amity.design.singleton.Bajie
-com/amity/design/abstractFactory/concreteClass/Vegetables.java
- com.amity.design.abstractFactory.concreteClass.Vegetables
-com/amity/design/prototype/SunWukong.java
- com.amity.design.prototype.SunWukong
+com/amity/design/adapter/twoWay/TwoWayAdapterTest.java
+ com.amity.design.adapter.twoWay.TwoWayAdapterTest
+com/amity/design/adapter/example/electric/ElectricAdapter.java
+ com.amity.design.adapter.example.electric.ElectricAdapter
+com/amity/design/adapter/twoWay/TwoWayAdaptee.java
+ com.amity.design.adapter.twoWay.TwoWayAdaptee
+com/amity/design/brige/design/Abstraction.java
+ com.amity.design.brige.design.Abstraction
 com/amity/design/singleton/SingletonEager.java
  com.amity.design.singleton.SingletonEager
-com/amity/design/abstractFactory/abstractClass/Animal.java
- com.amity.design.abstractFactory.abstractClass.Animal
-com/amity/design/abstractFactory/concreteFactory/NJFarm.java
- com.amity.design.abstractFactory.concreteFactory.NJFarm
 com/amity/design/fuyong/Tset.java
  com.amity.design.fuyong.Tset
 com/amity/design/prototype/Citation.java
  com.amity.design.prototype.Citation
+com/amity/design/brige/design/ConcreteImplementorA.java
+ com.amity.design.brige.design.ConcreteImplementorA
 com/amity/design/fuyong/White.java
  com.amity.design.fuyong.White
+com/amity/design/brige/example/BagManage.java
+ com.amity.design.brige.example.BagManage
+com/amity/design/adapter/example/MotorAdapterTest.java
+ com.amity.design.adapter.example.MotorAdapterTest
 com/amity/design/proxy/design/Subject.java
  com.amity.design.proxy.design.Subject
+com/amity/design/adapter/example/electric/ElectricMotor.java
+ com.amity.design.adapter.example.electric.ElectricMotor
 com/amity/design/prototype/ProtoTypeCitation.java
  com.amity.design.prototype.ProtoTypeCitation
 com/amity/design/proxy/example/NjSpecialtyProxy.java
  com.amity.design.proxy.example.NjSpecialtyProxy
 com/amity/design/abstractFactory/concreteClass/Fruitage.java
  com.amity.design.abstractFactory.concreteClass.Fruitage
+com/amity/design/brige/design/Implementor.java
+ com.amity.design.brige.design.Implementor
 com/amity/design/fuyong/Car.java
  com.amity.design.fuyong.Car
-com/amity/design/proxy/example/Specialty.java
- com.amity.design.proxy.example.Specialty
-com/amity/design/proxy/design/RealSubject.java
- com.amity.design.proxy.design.RealSubject
+com/amity/design/abstractFactory/FarmTest.java
+ com.amity.design.abstractFactory.FarmTest
+com/amity/design/adapter/example/Motor.java
+ com.amity.design.adapter.example.Motor
+com/amity/design/adapter/design/ClassAdapter.java
+ com.amity.design.adapter.design.ClassAdapter
+com/amity/design/brige/example/Wallet.java
+ com.amity.design.brige.example.Wallet
+com/amity/design/adapter/design/ObjectAdapterTest.java
+ com.amity.design.adapter.design.ObjectAdapterTest
+com/amity/design/adapter/twoWay/TwoWayAdapter.java
+ com.amity.design.adapter.twoWay.TwoWayAdapter
+com/amity/design/brige/example/HandBag.java
+ com.amity.design.brige.example.HandBag
 com/amity/design/proxy/design/ProxyTest.java
  com.amity.design.proxy.design.ProxyTest
-com/amity/design/DesignApplication.java
- com.amity.design.DesignApplication
-com/amity/design/proxy/example/JyProxy.java
- com.amity.design.proxy.example.JyProxy
 com/amity/design/fuyong/ElectricCar.java
  com.amity.design.fuyong.ElectricCar
-com/amity/design/singleton/SingletonLazy.java
- com.amity.design.singleton.President
- com.amity.design.singleton.SingletonLazy
-com/amity/design/abstractFactory/abstractClass/Plant.java
- com.amity.design.abstractFactory.abstractClass.Plant
+com/amity/design/adapter/twoWay/TwoWayTarget.java
+ com.amity.design.adapter.twoWay.TwoWayTarget
 com/amity/design/abstractFactory/abstractFactory/Farm.java
  com.amity.design.abstractFactory.abstractFactory.Farm
 com/amity/design/abstractFactory/concreteClass/Cattle.java
  com.amity.design.abstractFactory.concreteClass.Cattle
 com/amity/design/abstractFactory/concreteFactory/ZJFarm.java
  com.amity.design.abstractFactory.concreteFactory.ZJFarm
-com/amity/design/proxy/design/Proxy.java
- com.amity.design.proxy.design.Proxy
 com/amity/design/abstractFactory/concreteClass/Horse.java
  com.amity.design.abstractFactory.concreteClass.Horse
-com/amity/design/adapter/design/ClassAdapter.java
- com.amity.design.adapter.design.ClassAdapter
-com/amity/design/adapter/design/Target.java
- com.amity.design.adapter.design.Target
-com/amity/design/adapter/design/ClassAdapterTest.java
- com.amity.design.adapter.design.ClassAdapterTest
-com/amity/design/adapter/design/ObjectAdapterTest.java
- com.amity.design.adapter.design.ObjectAdapterTest
-com/amity/design/adapter/example/Motor.java
- com.amity.design.adapter.example.Motor
+com/amity/design/proxy/example/Specialty.java
+ com.amity.design.proxy.example.Specialty
 com/amity/design/adapter/design/Adaptee.java
  com.amity.design.adapter.design.Adaptee
-com/amity/design/adapter/example/electric/ElectricMotor.java
- com.amity.design.adapter.example.electric.ElectricMotor
-com/amity/design/adapter/example/electric/ElectricAdapter.java
- com.amity.design.adapter.example.electric.ElectricAdapter
-com/amity/design/adapter/design/ObjectAdapter.java
- com.amity.design.adapter.design.ObjectAdapter
-com/amity/design/adapter/example/optical/OpticalMotor.java
- com.amity.design.adapter.example.optical.OpticalMotor
-com/amity/design/adapter/example/optical/OpticalAdapter.java
- com.amity.design.adapter.example.optical.OpticalAdapter
-com/amity/design/adapter/example/MotorAdapterTest.java
- com.amity.design.adapter.example.MotorAdapterTest
-com/amity/design/util/ReadXML.java
- com.amity.design.util.ReadXML
-com/amity/design/abstractFactory/FarmTest.java
- com.amity.design.abstractFactory.FarmTest
-com/amity/design/adapter/twoWay/TargetRealize.java
- com.amity.design.adapter.twoWay.TargetRealize
-com/amity/design/adapter/twoWay/TwoWayAdapter.java
- com.amity.design.adapter.twoWay.TwoWayAdapter
-com/amity/design/adapter/twoWay/TwoWayAdapterTest.java
- com.amity.design.adapter.twoWay.TwoWayAdapterTest
-com/amity/design/adapter/twoWay/TwoWayAdaptee.java
- com.amity.design.adapter.twoWay.TwoWayAdaptee
-com/amity/design/adapter/twoWay/TwoWayTarget.java
- com.amity.design.adapter.twoWay.TwoWayTarget
-com/amity/design/adapter/twoWay/AdapteeRealize.java
- com.amity.design.adapter.twoWay.AdapteeRealize
-com/amity/design/brige/design/ConcreteImplementorA.java
- com.amity.design.brige.design.ConcreteImplementorA
-com/amity/design/brige/design/BridgeTest.java
- com.amity.design.brige.design.BridgeTest
-com/amity/design/brige/design/Implementor.java
- com.amity.design.brige.design.Implementor
-com/amity/design/brige/design/Abstraction.java
- com.amity.design.brige.design.Abstraction
-com/amity/design/brige/design/RefinedAbstraction.java
- com.amity.design.brige.design.RefinedAbstraction
-com/amity/design/brige/example/Bag.java
- com.amity.design.brige.example.Bag
-com/amity/design/brige/example/Red.java
- com.amity.design.brige.example.Red
 com/amity/design/brige/example/Color.java
  com.amity.design.brige.example.Color
-com/amity/design/brige/example/Wallet.java
- com.amity.design.brige.example.Wallet
-com/amity/design/brige/example/HandBag.java
- com.amity.design.brige.example.HandBag
+com/amity/design/adapter/example/optical/OpticalAdapter.java
+ com.amity.design.adapter.example.optical.OpticalAdapter
+com/amity/design/prototype/ProtoTypeWukong.java
+ com.amity.design.prototype.ProtoTypeWukong
+com/amity/design/adapter/twoWay/TargetRealize.java
+ com.amity.design.adapter.twoWay.TargetRealize
+com/amity/design/brige/example/Red.java
+ com.amity.design.brige.example.Red
+com/amity/design/proxy/example/NjSpecialty.java
+ com.amity.design.proxy.example.NjSpecialty
+com/amity/design/singleton/Bajie.java
+ com.amity.design.singleton.Bajie
+com/amity/design/abstractFactory/concreteClass/Vegetables.java
+ com.amity.design.abstractFactory.concreteClass.Vegetables
+com/amity/design/util/ReadXML.java
+ com.amity.design.util.ReadXML
+com/amity/design/prototype/SunWukong.java
+ com.amity.design.prototype.SunWukong
+com/amity/design/adapter/design/ObjectAdapter.java
+ com.amity.design.adapter.design.ObjectAdapter
+com/amity/design/brige/design/RefinedAbstraction.java
+ com.amity.design.brige.design.RefinedAbstraction
+com/amity/design/abstractFactory/abstractClass/Animal.java
+ com.amity.design.abstractFactory.abstractClass.Animal
+com/amity/design/abstractFactory/concreteFactory/NJFarm.java
+ com.amity.design.abstractFactory.concreteFactory.NJFarm
+com/amity/design/adapter/twoWay/AdapteeRealize.java
+ com.amity.design.adapter.twoWay.AdapteeRealize
+com/amity/design/adapter/design/ClassAdapterTest.java
+ com.amity.design.adapter.design.ClassAdapterTest
+com/amity/design/brige/design/BridgeTest.java
+ com.amity.design.brige.design.BridgeTest
 com/amity/design/brige/example/Yellow.java
  com.amity.design.brige.example.Yellow
-com/amity/design/brige/example/ReadXML.java
- com.amity.design.brige.example.ReadXML
-com/amity/design/brige/example/BagManage.java
- com.amity.design.brige.example.BagManage
+com/amity/design/adapter/design/Target.java
+ com.amity.design.adapter.design.Target
+com/amity/design/proxy/design/RealSubject.java
+ com.amity.design.proxy.design.RealSubject
+com/amity/design/proxy/example/JyProxy.java
+ com.amity.design.proxy.example.JyProxy
+com/amity/design/adapter/example/optical/OpticalMotor.java
+ com.amity.design.adapter.example.optical.OpticalMotor
+com/amity/design/singleton/SingletonLazy.java
+ com.amity.design.singleton.President
+ com.amity.design.singleton.SingletonLazy
+com/amity/design/abstractFactory/abstractClass/Plant.java
+ com.amity.design.abstractFactory.abstractClass.Plant
+com/amity/design/proxy/design/Proxy.java
+ com.amity.design.proxy.design.Proxy
+com/amity/design/brige/example/Bag.java
+ com.amity.design.brige.example.Bag
+com/amity/design/decorator/design/ConcreteDecorator.java
+ com.amity.design.decorator.design.ConcreteDecorator
+com/amity/design/decorator/design/DecoratorPattern.java
+ com.amity.design.decorator.design.DecoratorPattern
+com/amity/design/decorator/design/ConcreteComponent.java
+ com.amity.design.decorator.design.ConcreteComponent
+com/amity/design/decorator/design/Component.java
+ com.amity.design.decorator.design.Component
+com/amity/design/decorator/design/Decorator.java
+ com.amity.design.decorator.design.Decorator
