@@ -11,14 +11,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="800a12a1-aadd-4b2e-8a6b-416129b2d756" name="Default Changelist" comment="design update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/decorator/design/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/decorator/design/ConcreteComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/decorator/design/ConcreteDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/decorator/design/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/decorator/design/DecoratorPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/gc.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/design/ConcreteFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/design/Flyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/design/FlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/design/FlyweightPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/design/UnsharedConcreteFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/example/BlackPieces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/example/ChessPieces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/example/Chessboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/example/WeiqiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/example/WhitePieces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/flyweight/example/WzqGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -28,11 +34,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amity/design/DesignApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/DesignApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,16 +111,9 @@
       <recent name="E:\workspace\heheda\shop\design\src\main\java\com\amity\design" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecoratorPattern">
+  <component name="RunManager" selected="Application.WzqGame">
     <configuration name="BagManage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.amity.design.brige.example.BagManage" />
-      <module name="design.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BridgeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amity.design.brige.design.BridgeTest" />
       <module name="design.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,6 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FlyweightPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amity.design.flyweight.design.FlyweightPattern" />
+      <module name="design.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.amity.design.adapter.design.ObjectAdapterTest" />
       <module name="design.main" />
@@ -137,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoWayAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amity.design.adapter.twoWay.TwoWayAdapterTest" />
+    <configuration name="WzqGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amity.design.flyweight.example.WzqGame" />
       <module name="design.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,19 +206,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoWayAdapterTest" />
-      <item itemvalue="Application.BridgeTest" />
       <item itemvalue="Application.BagManage" />
       <item itemvalue="Application.ObjectAdapterTest" />
       <item itemvalue="Application.DecoratorPattern" />
+      <item itemvalue="Spring Boot.DesignApplication" />
+      <item itemvalue="Tomcat Server.Tomcat-DEFAULT" />
+      <item itemvalue="Application.FlyweightPattern" />
+      <item itemvalue="Application.WzqGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WzqGame" />
+        <item itemvalue="Application.FlyweightPattern" />
         <item itemvalue="Application.DecoratorPattern" />
         <item itemvalue="Application.ObjectAdapterTest" />
         <item itemvalue="Application.BagManage" />
-        <item itemvalue="Application.BridgeTest" />
-        <item itemvalue="Application.TwoWayAdapterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +239,7 @@
       <workItem from="1612662193588" duration="1050000" />
       <workItem from="1612689591549" duration="11783000" />
       <workItem from="1613635840396" duration="3653000" />
+      <workItem from="1613722912783" duration="3041000" />
     </task>
     <task id="LOCAL-00001" summary="design">
       <created>1612434601822</created>
@@ -293,35 +299,35 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612689567519" />
-    <state x="510" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1613656292089">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1613725004960">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1613656292089" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612756795416" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613725004960" />
     <state x="740" y="260" key="FileChooserDialogImpl" timestamp="1612689396221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612689396220" />
-    <state width="1238" height="236" key="GridCell.Tab.0.bottom" timestamp="1613656698511">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom" timestamp="1613725358806">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612777843093" />
-    <state width="1238" height="236" key="GridCell.Tab.0.center" timestamp="1613656698511">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613725358806" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center" timestamp="1613725358806">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612777843093" />
-    <state width="1238" height="236" key="GridCell.Tab.0.left" timestamp="1613656698511">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613725358806" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left" timestamp="1613725358806">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612777843093" />
-    <state width="1238" height="236" key="GridCell.Tab.0.right" timestamp="1613656698511">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613725358806" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right" timestamp="1613725358806">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612777843178" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613725358806" />
     <state width="1238" height="236" key="GridCell.Tab.1.bottom" timestamp="1613656698511">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
