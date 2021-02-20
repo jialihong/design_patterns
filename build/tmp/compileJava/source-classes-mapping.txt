@@ -155,3 +155,27 @@ com/amity/design/flyweight/example/Chessboard.java
  com.amity.design.flyweight.example.Chessboard
 com/amity/design/flyweight/example/ChessPieces.java
  com.amity.design.flyweight.example.ChessPieces
+com/amity/design/composite/design/touming/Composite.java
+ com.amity.design.composite.design.touming.Composite
+com/amity/design/composite/design/touming/Leaf.java
+ com.amity.design.composite.design.touming.Leaf
+com/amity/design/composite/design/touming/Component.java
+ com.amity.design.composite.design.touming.Component
+com/amity/design/composite/design/touming/CompositePattern.java
+ com.amity.design.composite.design.touming.CompositePattern
+com/amity/design/composite/design/anquan/Component.java
+ com.amity.design.composite.design.anquan.Component
+com/amity/design/composite/design/anquan/Composite.java
+ com.amity.design.composite.design.anquan.Composite
+com/amity/design/composite/design/anquan/CompositePattern.java
+ com.amity.design.composite.design.anquan.CompositePattern
+com/amity/design/composite/design/anquan/Leaf.java
+ com.amity.design.composite.design.anquan.Leaf
+com/amity/design/composite/example/Bags.java
+ com.amity.design.composite.example.Bags
+com/amity/design/composite/example/Articles.java
+ com.amity.design.composite.example.Articles
+com/amity/design/composite/example/Goods.java
+ com.amity.design.composite.example.Goods
+com/amity/design/composite/example/ShoppingTest.java
+ com.amity.design.composite.example.ShoppingTest
