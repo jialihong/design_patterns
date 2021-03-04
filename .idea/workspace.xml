@@ -10,19 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="800a12a1-aadd-4b2e-8a6b-416129b2d756" name="Default Changelist" comment="design update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/anquan/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/anquan/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/anquan/CompositePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/anquan/Leaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/touming/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/touming/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/touming/CompositePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/design/touming/Leaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/example/Articles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/example/Bags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/example/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/composite/example/ShoppingTest.java" afterDir="false" />
+    <list default="true" id="800a12a1-aadd-4b2e-8a6b-416129b2d756" name="Default Changelist" comment="linkedHashMap">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/block1/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/block1/MyBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/block1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/block2/Consumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/block2/MyBlockingQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amity/design/block2/Product2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -30,6 +24,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
     </list>
@@ -108,23 +103,23 @@
       <recent name="E:\workspace\heheda\shop\design\src\main\java\com\amity\design" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShoppingTest">
-    <configuration name="CompositePattern (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amity.design.composite.design.anquan.CompositePattern" />
+  <component name="RunManager" selected="Application.MyBlockingQueue2">
+    <configuration name="Bags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amity.design.composite.example.Bags" />
       <module name="design.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompositePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amity.design.composite.design.touming.CompositePattern" />
+    <configuration name="MyBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amity.design.block1.MyBlockingQueue" />
       <module name="design.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyweightPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amity.design.flyweight.design.FlyweightPattern" />
+    <configuration name="MyBlockingQueue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amity.design.block2.MyBlockingQueue2" />
       <module name="design.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WzqGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amity.design.flyweight.example.WzqGame" />
+    <configuration name="SimpleCacheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amity.design.LinkedHashMap.SimpleCacheTest" />
       <module name="design.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,21 +198,21 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ShoppingTest" />
+      <item itemvalue="Application.Bags" />
+      <item itemvalue="Application.SimpleCacheTest" />
       <item itemvalue="Spring Boot.DesignApplication" />
       <item itemvalue="Tomcat Server.Tomcat-DEFAULT" />
-      <item itemvalue="Application.FlyweightPattern" />
-      <item itemvalue="Application.WzqGame" />
-      <item itemvalue="Application.CompositePattern" />
-      <item itemvalue="Application.CompositePattern (1)" />
-      <item itemvalue="Application.ShoppingTest" />
+      <item itemvalue="Application.MyBlockingQueue" />
+      <item itemvalue="Application.MyBlockingQueue2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyBlockingQueue2" />
+        <item itemvalue="Application.MyBlockingQueue" />
+        <item itemvalue="Application.SimpleCacheTest" />
+        <item itemvalue="Application.Bags" />
         <item itemvalue="Application.ShoppingTest" />
-        <item itemvalue="Application.CompositePattern (1)" />
-        <item itemvalue="Application.CompositePattern" />
-        <item itemvalue="Application.WzqGame" />
-        <item itemvalue="Application.FlyweightPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +231,9 @@
       <workItem from="1612662193588" duration="1050000" />
       <workItem from="1612689591549" duration="11783000" />
       <workItem from="1613635840396" duration="3653000" />
-      <workItem from="1613722912783" duration="12841000" />
+      <workItem from="1613722912783" duration="13514000" />
+      <workItem from="1614064824280" duration="20898000" />
+      <workItem from="1614856422622" duration="4574000" />
     </task>
     <task id="LOCAL-00001" summary="design">
       <created>1612434601822</created>
@@ -259,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613731073134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="design update">
+      <created>1613816108462</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613816108462</updated>
+    </task>
+    <task id="LOCAL-00005" summary="linkedHashMap">
+      <created>1614162313386</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614162313386</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +299,8 @@
     </ignored-roots>
     <MESSAGE value="design" />
     <MESSAGE value="design update" />
-    <option name="LAST_COMMIT_MESSAGE" value="design update" />
+    <MESSAGE value="linkedHashMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedHashMap" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1612426050794">
@@ -303,11 +315,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612689567519" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1613809955702">
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1614860667479">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="510" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1613656292089" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613809955702" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1614860667479" />
     <state x="590" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1613794182105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -316,46 +328,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612689396220" />
-    <state width="1877" height="408" key="GridCell.Tab.0.bottom" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.0.bottom" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.0.center" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.0.center" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.0.left" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.0.left" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.0.right" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.0.right" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.1.bottom" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.1.bottom" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.1.center" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.1.center" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.1.left" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.1.left" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
-    <state width="1877" height="408" key="GridCell.Tab.1.right" timestamp="1613811684809">
+    <state width="1877" height="440" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
+    <state width="1877" height="440" key="GridCell.Tab.1.right" timestamp="1614861130894">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1238" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1613656698511" />
-    <state width="1877" height="408" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613811684809" />
+    <state width="1877" height="440" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614861130894" />
     <state width="1877" height="347" key="GridCell.Tab.2.bottom" timestamp="1612429262289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -377,14 +389,26 @@
     </state>
     <state x="286" y="50" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1613635849660" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612670084274" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1613731093650">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614162623806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613731093650" />
-    <state x="681" y="306" key="git4idea.merge.GitPullDialog" timestamp="1613731082250">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614162623806" />
+    <state x="504" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1614861094300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="681" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613731082250" />
+    <state x="504" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1614861094300" />
+    <state x="661" y="254" width="677" height="532" key="find.popup" timestamp="1614149432982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="254" width="677" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614149432982" />
+    <state x="681" y="306" key="git4idea.merge.GitPullDialog" timestamp="1614162329008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="306" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614162329008" />
+    <state x="1054" y="281" key="search.everywhere.popup" timestamp="1614857960237">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1054" y="281" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614857960237" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -410,9 +434,34 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/composite/example/Bags.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="16" />
+          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/block1/Consumer.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/block1/Product.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/block1/Product.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/block1/Consumer.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/block2/Consumer2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/amity/design/block2/Product2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
