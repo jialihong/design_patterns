@@ -10,9 +10,13 @@ repositories {
     mavenCentral()
 }
 
+
 dependencies {
 
 //    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.1.10.RELEASE'
+
+    compile  group: 'org.springframework', name: 'spring-context', version: '5.2.0.RELEASE'
+
 }
 
 test {

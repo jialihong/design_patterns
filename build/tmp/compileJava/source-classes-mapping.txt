@@ -56,6 +56,8 @@ com/amity/design/abstractFactory/concreteClass/Horse.java
  com.amity.design.abstractFactory.concreteClass.Horse
 com/amity/design/composite/example/Articles.java
  com.amity.design.composite.example.Articles
+com/amity/design/priorityQueue/PriorityQueueStudy.java
+ com.amity.design.priorityQueue.PriorityQueueStudy
 com/amity/design/brige/example/Color.java
  com.amity.design.brige.example.Color
 com/amity/design/adapter/example/optical/OpticalAdapter.java
@@ -64,6 +66,8 @@ com/amity/design/adapter/twoWay/TargetRealize.java
  com.amity.design.adapter.twoWay.TargetRealize
 com/amity/design/abstractFactory/concreteClass/Vegetables.java
  com.amity.design.abstractFactory.concreteClass.Vegetables
+com/amity/design/atomic/Sync02.java
+ com.amity.design.atomic.Sync02
 com/amity/design/prototype/SunWukong.java
  com.amity.design.prototype.SunWukong
 com/amity/design/composite/example/Goods.java
@@ -74,6 +78,8 @@ com/amity/design/brige/design/RefinedAbstraction.java
  com.amity.design.brige.design.RefinedAbstraction
 com/amity/design/abstractFactory/concreteFactory/NJFarm.java
  com.amity.design.abstractFactory.concreteFactory.NJFarm
+com/amity/design/event/CustomerApplicationListener.java
+ com.amity.design.event.CustomerApplicationListener
 com/amity/design/flyweight/example/WhitePieces.java
  com.amity.design.flyweight.example.WhitePieces
 com/amity/design/brige/example/Yellow.java
@@ -82,6 +88,8 @@ com/amity/design/adapter/design/Target.java
  com.amity.design.adapter.design.Target
 com/amity/design/decorator/design/ConcreteDecorator.java
  com.amity.design.decorator.design.ConcreteDecorator
+com/amity/design/atomic/Counter.java
+ com.amity.design.atomic.Counter
 com/amity/design/flyweight/design/ConcreteFlyweight.java
  com.amity.design.flyweight.design.ConcreteFlyweight
 com/amity/design/composite/design/touming/CompositePattern.java
@@ -90,6 +98,8 @@ com/amity/design/abstractFactory/abstractClass/Plant.java
  com.amity.design.abstractFactory.abstractClass.Plant
 com/amity/design/block2/MyBlockingQueue2.java
  com.amity.design.block2.MyBlockingQueue2
+com/amity/design/event/CustomerApplicationEvent.java
+ com.amity.design.event.CustomerApplicationEvent
 com/amity/design/block2/Product2.java
  com.amity.design.block2.Product2
 com/amity/design/brige/example/Bag.java
@@ -112,6 +122,8 @@ com/amity/design/fuyong/White.java
  com.amity.design.fuyong.White
 com/amity/design/brige/example/BagManage.java
  com.amity.design.brige.example.BagManage
+com/amity/design/zhexuejiaDinner/DinnerTest.java
+ com.amity.design.zhexuejiaDinner.DinnerTest
 com/amity/design/adapter/example/MotorAdapterTest.java
  com.amity.design.adapter.example.MotorAdapterTest
 com/amity/design/adapter/example/electric/ElectricMotor.java
@@ -122,6 +134,8 @@ com/amity/design/decorator/design/ConcreteComponent.java
  com.amity.design.decorator.design.ConcreteComponent
 com/amity/design/composite/example/Bags.java
  com.amity.design.composite.example.Bags
+com/amity/design/LinkedHashMap/SimpleCacheTest.java
+ com.amity.design.LinkedHashMap.SimpleCacheTest
 com/amity/design/adapter/example/Motor.java
  com.amity.design.adapter.example.Motor
 com/amity/design/block1/Consumer.java
@@ -150,6 +164,8 @@ com/amity/design/proxy/example/Specialty.java
  com.amity.design.proxy.example.Specialty
 com/amity/design/adapter/design/Adaptee.java
  com.amity.design.adapter.design.Adaptee
+com/amity/design/atomic/Volatile01.java
+ com.amity.design.atomic.Volatile01
 com/amity/design/flyweight/example/ChessPieces.java
  com.amity.design.flyweight.example.ChessPieces
 com/amity/design/prototype/ProtoTypeWukong.java
@@ -187,11 +203,17 @@ com/amity/design/adapter/example/optical/OpticalMotor.java
 com/amity/design/singleton/SingletonLazy.java
  com.amity.design.singleton.President
  com.amity.design.singleton.SingletonLazy
+com/amity/design/atomic/RWSample.java
+ com.amity.design.atomic.RWSample
+com/amity/design/zhexuejiaDinner/Fork.java
+ com.amity.design.zhexuejiaDinner.Fork
 com/amity/design/proxy/design/Proxy.java
  com.amity.design.proxy.design.Proxy
 com/amity/design/flyweight/example/BlackPieces.java
  com.amity.design.flyweight.example.BlackPieces
+com/amity/design/zhexuejiaDinner/Philosopher.java
+ com.amity.design.zhexuejiaDinner.Philosopher
 com/amity/design/block2/Consumer2.java
  com.amity.design.block2.Consumer2
-com/amity/design/LinkedHashMap/SimpleCacheTest.java
- com.amity.design.LinkedHashMap.SimpleCacheTest
+com/amity/design/event/EventTest.java
+ com.amity.design.event.EventTest
